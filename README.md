@@ -7,7 +7,7 @@ This repository contains solutions to the NeetCode 150 problems, which are commo
 
 ## ✅ Arrays & Hashing
 - Contains Duplicate [ View Problem ](./contains-duplicate.py) 
-- [ ] Valid Anagram
+- Valid Anagram [ View Problem ](./valid-anagrams.py)
 - [ ] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
